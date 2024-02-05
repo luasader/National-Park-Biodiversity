@@ -14,5 +14,6 @@ A project about US National Park Biodiversity!
 
 ### Step 4: Analysis
 
-### Additional Considerations: 
+### Conclusions
+The project was able to make several data visualizations and inferences about the various species in four of the National Parks that comprised this data set.
 
